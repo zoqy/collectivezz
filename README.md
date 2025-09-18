@@ -17,7 +17,7 @@ This ultra-MVP focuses only on the **essential event flow**:
 - **Frontend**: [Next.js](https://nextjs.org/)  
 - **Backend/DB/Auth**: [Supabase](https://supabase.com/) (Postgres, Auth, Storage, RLS)  
 - **Maps**: [Mapbox](https://www.mapbox.com/) (free tier)  
-- **Hosting**: [Vercel](https://vercel.com/) (Hobby tier) or [Cloudflare Pages](https://pages.cloudflare.com/)  
+- **Hosting**: [Vercel](https://vercel.com/) (Hobby tier)  
 
 ---
 
