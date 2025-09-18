@@ -43,34 +43,6 @@ This ultra-MVP focuses only on the **essential event flow**:
 
 Full schema and RLS policies: **see `/docs/db-schema.md`**  
 
----
-
-## 🔧 Setup
-
-### 1. Clone Repo
-```bash
-git clone https://github.com/yourname/collectivezz.git
-cd collectivezz
-```
-### 2. Install Dependencies
-```bash
-npm install
-```
-### 3. Configure Environment
-Create `.env.local` and add:
-```env
-NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
-SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
-NEXT_PUBLIC_MAPBOX_TOKEN=your-mapbox-token
-```
-- Get keys from [Supabase Project Settings](https://app.supabase.com/)
-- Get token form [Mapbox Account](https://account.mapbox.com/)
-### 4. Run Locally
-```bash
-npm run dev
-```
-App runs on http://localhost:3000
 
 ---
 
